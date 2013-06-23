@@ -1,0 +1,92 @@
+This is a regular text file.
+
+    Nothing advanced and not much to see here but some words.
+
+And you're reading them.
+
+    Everybody is impressed with fancy designs, responsive layouts, and scripts that do magical things.
+
+    However the most powerful tool on the web is still words.
+
+Please keep in mind, this is still a regular text file, and you're reading it: that's magical.
+
+    I mostly hang around in Germany and Luxembourg; you're probably somewhere else. I wrote this early
+    in the morning, June 23th, 2013; you're probably reading it at a different time. I wrote this on my
+    laptop; you could be reading this on your phone, a tablet or a desktop.
+    
+    You and I have been able to connect because I wrote this and you're reading it. That's the web.
+    Despite our different locations, devices, and time-zones we can connect here, on a regular text file.
+    
+    I wrote this in a text editor. It's 3.4 KB (without the ASCII art). I didn't need a Content Management System, a graphic designer,
+    or a software developer. There's no markup used for paragraphs, hierarchy, and emphasis.
+
+    I remember answering questions from people that wanted to install a linux driver for their TV card.
+    The driver package provided not only one but a whole set of readme text files that were cross-referencing
+    each other.
+    
+    All these people didn't manage to get the driver compiled and installed, one cause surely was that
+    the readme author didn't care about how to present the content at all. He just cared about functionality.
+
+You are still reading. How magical, many people would have stopped reading already.
+
+    Think about all the things you could communicate with a regular text file like this. If you're a businessperson,
+    you could sell something. If you're a teacher, you could teach something. If you're an artist, you could
+    show some ASCII arts you've made. And if your words are good, people will read them. Maybe.
+    
+You're patient, regular text files and also simple web pages don't make fun.
+
+    If a client wants to get something done, I'd like to challenge you to think about user expierence (UX).
+    If you want to sell products you will have more success with some good designs and layouts. Even
+    more success if your layouts are responsive in combination with fancy (but not too fancy) designs.
+
+    What do you have to say? If you don't know, just imagine I would write all my blog posts as regular text
+    files. Now imagine every blogger would do. What about Wikipedia delivering you text files instead of HTML?
+    
+    Do you care about how the reader feels when he's reading your text? Does a better user experience help me
+    to target more people? If you're not sure about the answer just use fancy designs and scripts.
+
+    At its heart, web design is about user experience and not just about words, graphics and some markup.
+
+Start with some initial words and continue with your fancy designs, responsive layouts, and scripts that do magical things.
+
+Cheers,
+Romain Schmitz
+@slopjong
+
+I wrote these words in response to Justin's post "This is a web page" (http://justinjackson.ca/words.html)
+where he's focussing on the content while he's promoting very basic html instead of something fancy.
+
+Justin promotes his own book so why shouldn't I do some promo too?
+
+People say I have some skills and I love to create things. If you want to get something done, drop me a message here: http://slopjong.de/contact
+
+
+
+
+ 
+                                  .+IIIIIII+.  
+                                .?IIIIIIIIIII?,             
+                             .+IIIIIIIIIIIIIIIII?.          
+                           .=IIIIIIIIIIIIIIIIIIIII?.        
+                          .IIIIIIIIIIIIIIIIIIIIIIIII:       
+                         :IIIIIIIIIIIIIIIIIIIIIIIIIII=.     
+                        =IIII=...?IIIIIIIIII.   .IIIII+     
+                       =IIII,     :IIIIIIII.     .IIIII+    
+                      :IIIII.     .IIIIIIII,     .IIIIII=   
+                     .IIIIII+.   .?IIIIIIIII,.  ,IIIIIIII.  
+                     +IIIIIIII=~+IIIIIIIIIIIIIIIIIIIIIIIII  
+                    ,IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII~ 
+                    ?IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII? 
+                   .IIIIIIIIIIII             IIIIIIIIIIIIII.
+                   ?IIIIIIIIIIII.           .IIIIIIIIIIIIII?
+                   IIIIIIIIIIIIIIII+=~:~=+IIIIIIIIIIIIIIIIII
+                   IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+                   IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+                              +I              I+
+                              :I              I:              
+                              :I              I:              
+                              ,I.            .I,              
+                              ,I.            .I,              
+                              ,I.            .I,              
+                         IIIIII?:            .?IIIIII
+              ASCII=art=generated=with=http://glassgiant.com/ascii
