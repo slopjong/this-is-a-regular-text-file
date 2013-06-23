@@ -70,7 +70,9 @@ make fun.
 Start with some initial words and continue with your fancy designs,
 responsive layouts, and scripts that do magical things.
 
-Cheers, Romain Schmitz @slopjong
+Cheers,
+Romain Schmitz
+@slopjong
 
 I wrote these words in response to Justin's post "This is a web page"
 (http://justinjackson.ca/words.html) where he's focussing on the content
