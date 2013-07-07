@@ -46,8 +46,7 @@ reading already.
     an artist, you could show some ASCII arts you've made. And if your
     words are good, people will read them. Maybe.
 
-You're patient, regular text files and also simple web pages don't
-make fun.
+You're patient, regular text files don't make fun.
 
     If a client wants to get something done, I'd like to challenge you
     to think about user expierence (UX). If you want to sell products
@@ -76,7 +75,8 @@ Romain Schmitz
 
 I wrote these words in response to Justin's post "This is a web page"
 (http://justinjackson.ca/words.html) where he's focussing on the content
-while he's promoting very basic html instead of something fancy.
+while he's promoting very basic html instead of something fancy. Ironically
+he's using himself a CMS for his website http://justinjackson.ca.
 
 Justin promotes his own book so why shouldn't I do some promo too?
 
